@@ -1,4 +1,4 @@
-# SLP Vectorization in the presence of control flow
+# SLP Vectorization in the Presence of Control Flow
 
 ## Group Info: 
 ## Thomas Talbot (ttalbot), ttalbot@andrew.cmu.edu
